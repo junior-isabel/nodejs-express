@@ -5,5 +5,6 @@
 #### jsonwebtoken
 #### body-parser
 #### ejs
+#### mongooose
 ----------
-Esta aplicação conta com um sistema para usuário final e um sistema para o administrador. dando a possibilidade do usuário pode fazer o seu login
+Esta aplicação conta com um sistema para usuário final e um sistema para o administrador. dando a possibilidade do usuário pode fazer o seu login;
